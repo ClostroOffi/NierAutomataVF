@@ -44,7 +44,7 @@ En cours d'écriture...
     -   Chapter 9 - ❌
     -   Chapter 10 - ❌
 
-- Route C :
+- Route C / D :
 
     -   Chapter 11 - ❌
     -   Chapter 12 - ❌

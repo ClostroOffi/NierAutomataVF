@@ -30,3 +30,15 @@ En cours d'écriture...
     -   Chapter 8 - ❌
     -   Chapter 9 - ❌
     -   Chapter 10 - ❌
+
+- Route B :
+
+    -   Chapter 11 - ❌
+    -   Chapter 12 - ❌
+    -   Chapter 31 - ❌
+    -   Chapter 14 - ❌
+    -   Chapter 15 - ❌
+    -   Chapter 16 - ❌
+    -   Chapter 17 - ❌
+    -   Route C Ending
+    -   Route D Ending

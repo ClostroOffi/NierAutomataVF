@@ -18,7 +18,7 @@ En cours d'écriture...
 
     - [Prologue - ⏳]
 
-Route A :
+- [Route A :]
 
 Chapter 1 - ❌
 Chapter 2 - ❌

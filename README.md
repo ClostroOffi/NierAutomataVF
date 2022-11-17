@@ -1,4 +1,4 @@
-# NieR Automata FR (WIP)
+# NieR Automata FR (WORK IN PROGRESS)
 <img src="https://img.clostro.tk/NAVFLOGO.png" />
 
 

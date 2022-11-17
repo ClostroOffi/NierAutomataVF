@@ -94,3 +94,6 @@ En cours d'écriture...
     -   "Machine Village" / "Village Machine" - ❌
     -   "Forest Zone and Forest Castle" / "Zone de Forêt et Château en Forêt" - ❌
     -   "Flooded City" / "Ville Inondée" - ❌
+
+## Casting :
+

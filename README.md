@@ -85,8 +85,7 @@ En cours d'écriture...
     -   Ending Y "Head[Y] Battle" / "Bataille Envirante" - ❌
     -   Ending Z "Over[Z]ealouz" / "Trop [Z]élé" - ❌
     
-    
-    - Side Quests / Quêtes secondaires :
+  - Side Quests / Quêtes secondaires :
 
     -   "Bunker" - ❌
     -   "City Ruins" / "Ruines de la Ville" - ❌

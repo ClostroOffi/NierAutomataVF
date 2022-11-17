@@ -33,6 +33,18 @@ En cours d'écriture...
 
 - Route B :
 
+    -   Chapter 1 - ❌
+    -   Chapter 2 - ❌
+    -   Chapter 3 - ❌
+    -   Chapter 4 - ❌
+    -   Chapter 5 - ❌
+    -   Chapter 6 - ❌
+    -   Chapter 7 - ❌
+    -   Route C Ending - ❌
+    -   Route D Ending - ❌
+
+- Route C :
+
     -   Chapter 11 - ❌
     -   Chapter 12 - ❌
     -   Chapter 31 - ❌

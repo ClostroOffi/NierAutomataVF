@@ -1,4 +1,4 @@
-# NieR Automata FR
+# NieR Automata FR (WIP)
 <img src="https://img.clostro.tk/NAVFLOGO.png" />
 
 

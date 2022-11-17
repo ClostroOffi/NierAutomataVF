@@ -5,5 +5,7 @@
 French Dub Mod of NieR Automata. | Mod VF de NieR Automata.
 
 ## Installation - EN 
+being written...
 
 ## Installation - FR
+En cours d'écriture...

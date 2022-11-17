@@ -84,3 +84,14 @@ En cours d'écriture...
     -   Ending X "Time to Rela[X]" / "L'heure de se rela[X]er" - ❌
     -   Ending Y "Head[Y] Battle" / "Bataille Envirante" - ❌
     -   Ending Z "Over[Z]ealouz" / "Trop [Z]élé" - ❌
+    
+    
+    - Side Quests / Quêtes secondaires :
+
+    -   "Bunker" - ❌
+    -   "City Ruins" / "Ruines de la Ville" - ❌
+    -   "Desert Zone" / "Zone Déserte" - ❌
+    -   "Amusement Park" / "Parc d'Attractions" - ❌
+    -   "Machine Village" / "Village Machine" - ❌
+    -   "Forest Zone and Forest Castle" / "Zone de Forêt et Château en Forêt" - ❌
+    -   "Flooded City" / "Ville Inondée" - ❌

@@ -96,4 +96,4 @@ En cours d'écriture...
     -   "Flooded City" / "Ville Inondée" - ❌
 
 ## Casting :
-   -    [To Be Determined]
+   -    [To Be Determined / Doit être déterminé]

@@ -40,8 +40,9 @@ En cours d'écriture...
     -   Chapter 5 - ❌
     -   Chapter 6 - ❌
     -   Chapter 7 - ❌
-    -   Route C Ending - ❌
-    -   Route D Ending - ❌
+    -   Chapter 8 - ❌
+    -   Chapter 9 - ❌
+    -   Chapter 10 - ❌
 
 - Route C :
 

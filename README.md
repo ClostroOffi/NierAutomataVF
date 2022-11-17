@@ -12,9 +12,9 @@ En cours d'écriture...
 
 ## Progression :
 
-  - ✅ : Done / Terminé
-  - ❌ : Not begin / Pas commencé
-  - ⏳ : Ongoing / En cours
+    - ✅ : Done / Terminé
+    - ❌ : Not begin / Pas commencé
+    - ⏳ : Ongoing / En cours
 
 - [Prologue - ⏳]
 

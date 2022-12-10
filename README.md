@@ -1,5 +1,5 @@
 # NieR Automata French Mod (WORK IN PROGRESS)
-<img src="https://img.clostro.tk/NAVFLOGO.png" />
+<img src="https://github.com/ClostroOffi/NierAutomataVF/blob/main/Sans%20titre.png?raw=true" />
 
 
 French Dub Mod of NieR Automata. | Mod VF de NieR Automata.

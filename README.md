@@ -99,6 +99,6 @@ En cours d'écriture...
    -    [To Be Determined / Doit être déterminé]
    
 ## Special thanks to / Remerciements spéciaux à :
-    -   RaiderB#7028
-    -   Vluurie/Dustin#7202
-    -   And the rest of "NieR: Modding" server.
+   -   RaiderB#7028
+   -   Vluurie/Dustin#7202
+   -   And the rest of "NieR: Modding" Discord server for their help. | Et le reste du serveur Discord "NieR: Modding" pour leur aide.

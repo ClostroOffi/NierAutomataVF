@@ -97,3 +97,8 @@ En cours d'écriture...
 
 ## Casting :
    -    [To Be Determined / Doit être déterminé]
+   
+## Special thanks to / Remerciements spéciaux à :
+    -   RaiderB#7028
+    -   Vluurie/Dustin#7202
+    -   And the rest of "NieR: Modding" server.

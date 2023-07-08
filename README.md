@@ -16,7 +16,7 @@ En cours d'écriture...
     - ❌ : Not begin / Pas commencé
     - ⏳ : Ongoing / En cours
 
-- Prologue - ⏳ [2023]
+- Prologue - ⏳ [Summer 2023]
 
 - Route A :
 
@@ -96,9 +96,9 @@ En cours d'écriture...
     -   "Flooded City" / "Ville Inondée" - ❌
 
 ## Casting :
-   -    [To Be Determined / Doit être déterminé]
+   -    [To Be Determined / A déterminer]
    
 ## Special thanks to / Remerciements spéciaux à :
    -   RaiderB#7028
    -   Vluurie/Dustin#7202
-   -   And the rest of "NieR: Modding" Discord server for their help. | Et le reste du serveur Discord "NieR: Modding" pour leur aide.
+   -   And the rest of "NieR: Modding" Discord server for their help. | Et le reste du serveur Discord "NieR: Modding" pour leur aide. (https://discord.gg/F6AChzfvym)

@@ -1,5 +1,5 @@
 # NieR Automata French Mod (WORK IN PROGRESS)
-<img src="https://github.com/ClostroOffi/NierAutomataVF/blob/main/Sans%20titre.png?raw=true" />
+<img src="https://raw.githubusercontent.com/ClostroOffi/NierAutomataVF/main/LOGO.png" />
 
 
 French Dub Mod for NieR Automata, a Square Enix game. | Mod VF de NieR Automata, un jeu par Square Enix.

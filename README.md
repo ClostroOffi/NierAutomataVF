@@ -16,7 +16,7 @@ En cours d'écriture...
     - ❌ : Not begin / Pas commencé
     - ⏳ : Ongoing / En cours
 
-- Prologue - ⏳ [Summer 2023]
+- Prologue - ⏳ [September 2023]
 
 - Route A :
 

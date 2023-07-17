@@ -100,7 +100,7 @@ En cours d'écriture...
    -    9S : Indiana "Nakatomi" LEROI
    -    6O : Léa "Yantsun" ANSOLA ALLEMANY
    -    POD 042 : Benoit "Solros_"
-   -    Additional voices : Léna "Ledhena" GÉRAUD / Cyrielle "Flagister" SILVER / Yann "Alberto Rigolo" ABIVEN
+   -    Additional Voices / Voix Additionnelles : Léna "Ledhena" GÉRAUD | Cyrielle "Flagister" SILVER | Yann "Alberto Rigolo" ABIVEN
 
 ## Special thanks to / Remerciements spéciaux à :
    -   RaiderB#7028

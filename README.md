@@ -96,8 +96,12 @@ En cours d'écriture...
     -   "Flooded City" / "Ville Inondée" - ❌
 
 ## Casting :
-   -    [To Be Determined / A déterminer]
-   
+   -    2B : Mayrig "Harlazy" TRUCHOT
+   -    9S : Indiana "Nakatomi" LEROI
+   -    6O : Léa "Yantsun" ANSOLA ALLEMANY
+   -    POD 042 : Benoit "Solros_"
+   -    Additional voices : Léna "Ledhena" GÉRAUD / Cyrielle "Flagister" SILVER / Yann "Alberto Rigolo" ABIVEN
+
 ## Special thanks to / Remerciements spéciaux à :
    -   RaiderB#7028
    -   Vluurie/Dustin#7202

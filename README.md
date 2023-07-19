@@ -3,7 +3,6 @@
 
 
 French Dub Mod for NieR Automata by Dubia Studio. | Mod VF de NieR Automata par Dubia Studio.
-The mod comes with a textures enhancement pack. | Le mod est livré avec un patch améliorant les textures du jeu.
 
 ## Installation - EN 
 Being written...

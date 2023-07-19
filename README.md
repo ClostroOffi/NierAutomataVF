@@ -5,10 +5,10 @@
 French Dub Mod for NieR Automata by Dubia Studio. | Mod VF de NieR Automata par Dubia Studio.
 
 ## Installation - EN 
-Being written...
+Download the "mod.zip" file in the "Releases" section. After that, you just have to drag the contents of the . zip in the folder containing NieR Automata.
 
 ## Installation - FR
-En cours d'écriture...
+Télécharger le fichier "mod.zip" dans la rubrique "Releases". Après ça, il ne vous restera plus qu'à glisser le contenu du fichier .zip dans le dossier contenant NieR Automata.
 
 ## Progression :
 
@@ -100,7 +100,7 @@ En cours d'écriture...
    -    9S : Indiana "Nakatomi" LEROI
    -    6O : Léa "Yantsun" ANSOLA ALLEMANY
    -    POD 042 : Benoit "Solros_"
-   -    Additional Voices / Voix Additionnelles : Léna "Ledhena" GÉRAUD | Cyrielle "Flagister" SILVER | Yann "Alberto Rigolo" ABIVEN
+   -    Additional Voices / Voix Additionnelles : Léna "Ledhena" GÉRAUD | Cyrielle "Flagister" SILVER | "Alberto R."
 
 ## Special thanks to / Remerciements spéciaux à :
    -   RaiderB#7028

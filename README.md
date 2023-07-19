@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/ClostroOffi/NierAutomataVF/main/LOGO.png" />
 
 
-French Dub Mod for NieR Automata, a Square Enix game. | Mod VF de NieR Automata, un jeu par Square Enix.
+French Dub Mod for NieR Automata by Dubia Studio. | Mod VF de NieR Automata par Dubia Studio.
 
 ## Installation - EN 
 Being written...

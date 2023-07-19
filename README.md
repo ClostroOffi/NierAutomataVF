@@ -1,4 +1,4 @@
-# NieR Automata French Mod (WORK IN PROGRESS)
+ # NieR Automata French Mod (WORK IN PROGRESS)
 <img src="https://raw.githubusercontent.com/ClostroOffi/NierAutomataVF/main/LOGO.png" />
 
 
@@ -99,7 +99,7 @@ Télécharger le fichier "mod.zip" dans la rubrique "Releases". Après ça, il n
    -    2B : Mayrig "Harlazy" TRUCHOT
    -    9S : Indiana "Nakatomi" LEROI
    -    6O : Léa "Yantsun" ANSOLA ALLEMANY
-   -    POD 042 : Benoit "Solros_"
+   -    POD 042 : Benoit "Solros_" LANG
    -    Additional Voices / Voix Additionnelles : Léna "Ledhena" GÉRAUD | Cyrielle "Flagister" SILVER | "Alberto R."
 
 ## Special thanks to / Remerciements spéciaux à :

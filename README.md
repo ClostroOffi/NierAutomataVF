@@ -58,42 +58,42 @@ Télécharger le fichier "mod.zip" dans la rubrique "Releases". Après ça, il n
 
 - Endings :
 
-    -   Ending A "Flowers for M[A]chines" / "Fleurs pour les M[a]chines" - ❌
-    -   Ending B "Or not to [B]e" / "Ou ne pas [E]tre"  - ❌
-    -   Ending C "Meaningless [C]ode" / "[C]ode vide de sens" - ❌
-    -   Ending D "Chil[D]hood's End" / "Fin [D]e l’enfance" - ❌
-    -   Ending E "The [E]nd of YoRHa" / "La fin d[E] YoRHa" - ❌
-    -   Ending F "Mission [F]ailed" / "Mission [F]oirée" - ❌
-    -   Ending G "Hun[G]ry for knowledge" / "[G]oulu de connaissances" - ❌
-    -   Ending H "A mountain too [H]igh" / "Une montagne trop [H]aute" - ❌
-    -   Ending I "No [I] in team" / "Pas mo[I] en équipe." - ❌
-    -   Ending J "Bad [J]udgement" / "Mauvais [J]ugement"  - ❌
-    -   Ending K "Aji wo [K]utta" - ❌
-    -   Ending L "[L]one wolf" / "[L]oup Solitaire" - ❌
-    -   Ending M "Break Ti[M]e" / "Te[M]ps Brisé." - ❌
-    -   Ending N "[N]o man's village" / "Le Village d'aucu[N] homme" - ❌
-    -   Ending O "Just y[O]u and me" / "Juste t[O]i, et moi"- ❌
-    -   Ending P "Corru[P]tion" / "Corrom[P]tion" - ❌
-    -   Ending Q "[Q]uestionnable actions" / "Actions hypothéti[Q]ues"- ❌
-    -   Ending R "Mave[R]ick" / "[R]ebelle" - ❌
-    -   Ending S "City e[S]cape" / "Eva[S]ion urbaine" - ❌
-    -   Ending T "Fa[T]al Error" / "Erreur Fa[T]ale" - ❌
-    -   Ending U "Deb[U]nked" / "Démystifié" - ❌
-    -   Ending V "Reckless bra[V]ery" / "Bra[V]oure Imprudente" - ❌
-    -   Ending W "Broken [W]ings" / "Ailes Brisées" - ❌
-    -   Ending X "Time to Rela[X]" / "L'heure de se rela[X]er" - ❌
-    -   Ending Y "Head[Y] Battle" / "Bataille Envirante" - ❌
-    -   Ending Z "Over[Z]ealouz" / "Trop [Z]élé" - ❌
+    -   Ending A "Flowers for M[A]chines" ❌
+    -   Ending B "Or not to [B]e" ❌
+    -   Ending C "Meaningless [C]ode" ❌
+    -   Ending D "Chil[D]hood's End" ❌
+    -   Ending E "The [E]nd of YoRHa" ❌
+    -   Ending F "Mission [F]ailed" ❌
+    -   Ending G "Hun[G]ry for knowledge" ❌
+    -   Ending H "A mountain too [H]igh" ❌
+    -   Ending I "No [I] in team" ❌
+    -   Ending J "Bad [J]udgement" ❌
+    -   Ending K "Aji wo [K]utta" ❌
+    -   Ending L "[L]one wolf" ❌
+    -   Ending M "Break Ti[M]e" ❌
+    -   Ending N "[N]o man's village" ❌
+    -   Ending O "Just y[O]u and me" ❌
+    -   Ending P "Corru[P]tion" ❌
+    -   Ending Q "[Q]uestionnable actions" ❌
+    -   Ending R "Mave[R]ick" ❌
+    -   Ending S "City e[S]cape" ❌
+    -   Ending T "Fa[T]al Error" ❌
+    -   Ending U "Deb[U]nked" ❌
+    -   Ending V "Reckless bra[V]ery" ❌
+    -   Ending W "Broken [W]ings" ❌
+    -   Ending X "Time to Rela[X]" ❌
+    -   Ending Y "Head[Y] Battle" ❌
+    -   Ending Z "Over[Z]ealouz" ❌
     
 - Side Quests / Quêtes secondaires :
 
     -   "Bunker" - ❌
-    -   "City Ruins" / "Ruines de la Ville" - ❌
-    -   "Desert Zone" / "Zone Déserte" - ❌
-    -   "Amusement Park" / "Parc d'Attractions" - ❌
-    -   "Machine Village" / "Village Machine" - ❌
-    -   "Forest Zone and Forest Castle" / "Zone de Forêt et Château en Forêt" - ❌
-    -   "Flooded City" / "Ville Inondée" - ❌
+    -   "City Ruins" ❌
+    -   "Desert Zone" ❌
+    -   "Amusement Park" ❌
+    -   "Machine Village" ❌
+    -   "Forest Zone and Forest Castle" ❌
+    -   "Flooded City" ❌
 
 ## Casting :
    -    2B : Mayrig "Harlazy" TRUCHOT
